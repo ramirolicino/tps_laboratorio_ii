@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\olici\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\olici\\.nuget\\packages"
-    ]
-  }
-}
