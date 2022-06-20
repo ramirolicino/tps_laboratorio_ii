@@ -4,75 +4,14 @@
     "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj": {
+    "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
-        "projectName": "FormClubFutbol",
-        "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
+        "projectUniqueName": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\olici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\olici\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0-windows7.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0-windows7.0": {
-            "targetAlias": "net5.0-windows",
-            "projectReferences": {
-              "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj",
-        "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\olici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,6 +58,67 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
+        "projectName": "FormClubFutbol",
+        "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
+        "packagesPath": "C:\\Users\\olici\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"

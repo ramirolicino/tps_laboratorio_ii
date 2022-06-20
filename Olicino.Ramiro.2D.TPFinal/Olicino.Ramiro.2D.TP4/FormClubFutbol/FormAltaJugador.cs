@@ -1,7 +1,7 @@
-﻿using Biblioteca;
+﻿using Entidades;
 using System;
 using System.Windows.Forms;
-using static Biblioteca.Jugador;
+using static Entidades.Jugador;
 
 namespace FormClubFutbol
 {

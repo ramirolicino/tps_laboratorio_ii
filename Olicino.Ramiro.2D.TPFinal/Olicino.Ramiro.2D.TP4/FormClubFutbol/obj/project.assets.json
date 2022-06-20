@@ -131,17 +131,17 @@
           }
         }
       },
-      "Biblioteca/1.0.0": {
+      "Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "System.Data.SqlClient": "4.8.3"
         },
         "compile": {
-          "bin/placeholder/Biblioteca.dll": {}
+          "bin/placeholder/Entidades.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Biblioteca.dll": {}
+          "bin/placeholder/Entidades.dll": {}
         }
       }
     }
@@ -460,15 +460,15 @@
         "version.txt"
       ]
     },
-    "Biblioteca/1.0.0": {
+    "Entidades/1.0.0": {
       "type": "project",
-      "path": "../../../../TrabajosPracticos/RecuperatoriosTP/RecuperatoriosTP/Tp4/Olicino.Ramiro.2D.TPFinal/Biblioteca/Biblioteca.csproj",
-      "msbuildProject": "../../../../TrabajosPracticos/RecuperatoriosTP/RecuperatoriosTP/Tp4/Olicino.Ramiro.2D.TPFinal/Biblioteca/Biblioteca.csproj"
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "Biblioteca >= 1.0.0"
+      "Entidades >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -498,8 +498,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\TrabajosPracticos\\RecuperatoriosTP\\RecuperatoriosTP\\Tp4\\Olicino.Ramiro.2D.TPFinal\\Biblioteca\\Biblioteca.csproj"
+            "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj"
             }
           }
         }
