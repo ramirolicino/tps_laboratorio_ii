@@ -97,7 +97,7 @@ namespace Entidades
             Vehiculo vehiculo = obj as Vehiculo;
             return vehiculo != null && this == vehiculo;
         }
-
+    
         /// <summary>
         /// Sobrescribe el metodo GetHashCode() para que se genere el mismo hashcode si los chasis son iguales
         /// </summary>

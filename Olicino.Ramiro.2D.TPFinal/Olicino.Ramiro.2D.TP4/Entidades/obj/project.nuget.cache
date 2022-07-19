@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8M7XVAFC7uaW2c+JzkyxenM69lHrzTi99JXDgyPrzCJuh1HpqN76si+iX8BIwvSzL+pAa69Jv3OWBKspu9kbnw==",
+  "dgSpecHash": "of96gtyNEjUt6ZAA1rOFuMSf90LhrxeHuNykuVCIOo0DGg25PsCTg7wtrLShqrFA8TPGUQdk/P3pfFJL2tGlRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olici\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\olici\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

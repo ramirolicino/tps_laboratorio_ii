@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\olici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olici\\AppData\\Roaming\\NuGet\\NuGet.Config",

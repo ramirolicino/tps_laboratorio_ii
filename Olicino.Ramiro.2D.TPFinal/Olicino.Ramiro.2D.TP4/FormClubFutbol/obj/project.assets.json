@@ -477,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
+      "projectUniqueName": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
       "projectName": "FormClubFutbol",
-      "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
+      "projectPath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
       "packagesPath": "C:\\Users\\olici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\obj\\",
+      "outputPath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -498,8 +498,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj"
+            "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\Entidades\\Entidades.csproj"
             }
           }
         }

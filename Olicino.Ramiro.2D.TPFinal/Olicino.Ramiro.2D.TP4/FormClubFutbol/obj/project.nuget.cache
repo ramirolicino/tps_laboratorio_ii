@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EovJRTxnTwZz0cyQCUlqwTOX+BYZCCjLrnR4sFokheZkP7IYrGsE3bPrUbDAdTb5RNvph/7tSTf074JXTbmF5A==",
+  "dgSpecHash": "f4/bnStN6kTOb+zJcRyp9I+tiCBl572ng0sc/bQn2bKadCwG7iMgJQ91UIDg7v22Dgi85tqrg1wE5AAGD82cAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
+  "projectFilePath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\FormClubFutbol\\FormClubFutbol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olici\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\olici\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

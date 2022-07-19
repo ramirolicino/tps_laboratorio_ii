@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+fL2Q4N1Uuz0tCcQw3BtCDPAOTTxyLoNmV3I39RHUGzAkjXkjasIYI20OjYF7yY30a/VB1kVmHji3pP0oHLXEw==",
+  "dgSpecHash": "rQ5FeimyC6L/yHxuwRe90jbTm8AlUpKvsY6qOlYQbf8roTS4hxpuxX/Fp+QDeYQdDaZWPSNr7RYoMp9qvTxdWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olici\\Desktop\\U T N\\1° AÑO\\2° CUATRIMESTRE\\PROGRAMACION II\\Tps\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\TestClubFutbol\\TestClubFutbol.csproj",
+  "projectFilePath": "C:\\Users\\olici\\Downloads\\tps_laboratorio_ii\\Olicino.Ramiro.2D.TPFinal\\Olicino.Ramiro.2D.TP4\\TestClubFutbol\\TestClubFutbol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olici\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\olici\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
